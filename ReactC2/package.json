@@ -1,0 +1,23 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "Hello React",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakshibobade21/ReactStart.git"
+  },
+  "keywords": [
+    "hello-react",
+    "react-start"
+  ],
+  "author": "Sakshi Bobade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakshibobade21/ReactStart/issues"
+  },
+  "homepage": "https://github.com/sakshibobade21/ReactStart#readme"
+}
