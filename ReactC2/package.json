@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sakshibobade21/ReactStart/issues"
   },
-  "homepage": "https://github.com/sakshibobade21/ReactStart#readme"
+  "homepage": "https://github.com/sakshibobade21/ReactStart#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
