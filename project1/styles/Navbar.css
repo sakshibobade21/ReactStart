@@ -1,0 +1,19 @@
+.navbar{
+  padding-right: 5%;
+  padding-top: 3%;
+  width: 100%;
+  margin-left: 30%;
+}
+
+.nav-items{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.item{
+    cursor: pointer;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
