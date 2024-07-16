@@ -1,14 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import HeaderComponent from "./src/Components/Header";
+import AppLayout from "./src/Components/AppLayout";
 
-const AppLayout = () => {
+const App = () => {
   return(
-    <div className="app">
-      <HeaderComponent/>
-    </div>
+    <AppLayout/>
   )
 }
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<AppLayout />);
+root.render(<App />);
