@@ -5,7 +5,7 @@ import '../../styles/HeaderComponent.css';
 
 const HeaderComponent = () => {
   return(
-    <div>
+    <div className="header-container">
       <img className="logo" src={logo} alt="Logo" />
     </div>
     
